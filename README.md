@@ -1,4 +1,4 @@
-# Machine Learning Pipeline for Regression
+# Machine Learning Model Definer
 
 This is a Python script that defines a machine learning pipeline for a regression task. It loads a CSV file, performs feature engineering, splits the data into training and testing sets, preprocesses the data by scaling it, and evaluates several regression models using hyperparameter tuning with a grid search.
 
