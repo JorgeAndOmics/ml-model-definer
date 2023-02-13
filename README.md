@@ -14,7 +14,7 @@ The script requires Python 3 and the following Python packages:
 
 To use the script, run the following command in a terminal:
 
-`python ml_pipeline.py data.csv target_column [--test_size TEST_SIZE] [--random_state RANDOM_STATE]` 
+    `python ml_pipeline.py data.csv target_column [--test_size TEST_SIZE] [--random_state RANDOM_STATE]` 
 
 Here, `data.csv` is the path to the CSV file containing the dataset, and `target_column` is the name of the target column in the dataset. The optional arguments `--test_size` and `--random_state` specify the proportion of the dataset to use as the test set and the random seed for reproducibility, respectively.
 
