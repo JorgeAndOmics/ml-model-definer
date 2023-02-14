@@ -30,3 +30,11 @@ The script performs the following steps:
 6.  Identify the best-performing model and print its parameters.
 
 The models to be evaluated are defined in a dictionary in the `main` function, where the keys are model names and the values are tuples of (model, param_grid), where `model` is an instance of a scikit-learn estimator class, and `param_grid` is a dictionary of hyperparameters to be tuned using a grid search.
+
+## Contributions
+
+If you require a feature, identify a bug or just want some info, dont hesitate to contact. All contributions are welcome!
+
+## License
+
+Under MIT License
